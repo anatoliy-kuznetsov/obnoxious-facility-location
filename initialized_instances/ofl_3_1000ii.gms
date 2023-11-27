@@ -11048,7 +11048,4 @@ facility_facility_sq_distance.l('2', '3') = 1.0664529487230751669813;
 objdef(i,j).. obj =l= facility_community_sq_distance(i,j);
 Model m / all /;
 m.optfile = 1;
-Option optca = 1e-5;
-Option optcr = 1e-5;
-Option reslim = 3600;
 Solve m using nlp maximizing obj;
