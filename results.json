@@ -1,0 +1,1890 @@
+{
+  "ofl_2_100i": {
+    "BARON 23.11.13": {
+      "solved": true,
+      "time": 2.66,
+      "primal_bound": 0.023813,
+      "dual_bound": 0.023813,
+      "remaining_gap": 0.0
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 0.26,
+      "primal_bound": 0.02381263067163,
+      "dual_bound": 0.02381263067163,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": true,
+      "time": 1.22,
+      "primal_bound": 0.0238063814699025,
+      "dual_bound": 0.0238063814699025,
+      "remaining_gap": 0.0
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 0.07,
+      "primal_bound": 0.023803,
+      "dual_bound": 0.023803,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.0,
+      "exposed_point_computation_time": 0.0
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 0.08,
+      "primal_bound": 0.023803,
+      "dual_bound": 0.023803,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.0,
+      "exposed_point_computation_time": 0.0
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 1.16,
+      "primal_bound": 0.0238031,
+      "dual_bound": 0.0238031,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.23,
+      "exposed_point_computation_time": 0.04
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 0.07,
+      "primal_bound": 0.023803,
+      "dual_bound": 0.023803,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.01,
+      "exposed_point_computation_time": 0.01
+    }
+  },
+  "ofl_2_100ii": {
+    "BARON 23.11.13": {
+      "solved": true,
+      "time": 1.82,
+      "primal_bound": 0.023813,
+      "dual_bound": 0.023813,
+      "remaining_gap": 0.0
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 0.19,
+      "primal_bound": 0.02381263067163,
+      "dual_bound": 0.02381263067163,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": true,
+      "time": 0.82,
+      "primal_bound": 0.0238075991689222,
+      "dual_bound": 0.0238075991689222,
+      "remaining_gap": 0.0
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 0.06,
+      "primal_bound": 0.023803,
+      "dual_bound": 0.023803,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.0,
+      "exposed_point_computation_time": 0.0
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 0.08,
+      "primal_bound": 0.023803,
+      "dual_bound": 0.023803,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.02,
+      "exposed_point_computation_time": 0.01
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 1.39,
+      "primal_bound": 0.0238031,
+      "dual_bound": 0.0238031,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.3,
+      "exposed_point_computation_time": 0.06
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 0.07,
+      "primal_bound": 0.023803,
+      "dual_bound": 0.023803,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.0,
+      "exposed_point_computation_time": 0.0
+    }
+  },
+  "ofl_2_1000i": {
+    "BARON 23.11.13": {
+      "solved": true,
+      "time": 344.67,
+      "primal_bound": 0.00365974,
+      "dual_bound": 0.00365974,
+      "remaining_gap": 0.0
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 12.48,
+      "primal_bound": 0.003657906255524,
+      "dual_bound": 0.003657906255524,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00365370127885659,
+      "dual_bound": 0.00366210479179796,
+      "remaining_gap": 0.0023
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 0.34,
+      "primal_bound": 0.00364974,
+      "dual_bound": 0.00364974,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.02,
+      "exposed_point_computation_time": 0.01
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 0.4,
+      "primal_bound": 0.00364974,
+      "dual_bound": 0.00364974,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.02,
+      "exposed_point_computation_time": 0.02
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 45.12,
+      "primal_bound": 0.00365897,
+      "dual_bound": 0.00365897,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 8.49,
+      "exposed_point_computation_time": 5.7
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 0.31,
+      "primal_bound": 0.00364974,
+      "dual_bound": 0.00364974,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.02,
+      "exposed_point_computation_time": 0.02
+    }
+  },
+  "ofl_2_1000ii": {
+    "BARON 23.11.13": {
+      "solved": true,
+      "time": 309.17,
+      "primal_bound": 0.00365974,
+      "dual_bound": 0.00365974,
+      "remaining_gap": 0.0
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 8.37,
+      "primal_bound": 0.003653556400382,
+      "dual_bound": 0.003653556400382,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": true,
+      "time": 202.63,
+      "primal_bound": 0.003654151903452,
+      "dual_bound": 0.003654151903452,
+      "remaining_gap": 0.0
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 0.25,
+      "primal_bound": 0.00364974,
+      "dual_bound": 0.00364974,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.02,
+      "exposed_point_computation_time": 0.02
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 0.32,
+      "primal_bound": 0.00364974,
+      "dual_bound": 0.00364974,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.02,
+      "exposed_point_computation_time": 0.01
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 59.21,
+      "primal_bound": 0.00365724,
+      "dual_bound": 0.00365724,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 10.58,
+      "exposed_point_computation_time": 7.51
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 0.26,
+      "primal_bound": 0.00364974,
+      "dual_bound": 0.00364974,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.03,
+      "exposed_point_computation_time": 0.02
+    }
+  },
+  "ofl_3_100i": {
+    "BARON 23.11.13": {
+      "solved": true,
+      "time": 4.25,
+      "primal_bound": 0.0230344,
+      "dual_bound": 0.0230344,
+      "remaining_gap": 0.0
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 1.52,
+      "primal_bound": 0.02302796079594,
+      "dual_bound": 0.02302796079594,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": true,
+      "time": 9.7,
+      "primal_bound": 0.023026706973993,
+      "dual_bound": 0.023026706973993,
+      "remaining_gap": 0.0
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 0.08,
+      "primal_bound": 0.0230244,
+      "dual_bound": 0.0230244,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.02,
+      "exposed_point_computation_time": 0.01
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 0.11,
+      "primal_bound": 0.0230244,
+      "dual_bound": 0.0230244,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.01,
+      "exposed_point_computation_time": 0.01
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 7.3,
+      "primal_bound": 0.023025,
+      "dual_bound": 0.023025,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 2.22,
+      "exposed_point_computation_time": 0.2
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 0.12,
+      "primal_bound": 0.0230244,
+      "dual_bound": 0.0230244,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.04,
+      "exposed_point_computation_time": 0.02
+    }
+  },
+  "ofl_3_100ii": {
+    "BARON 23.11.13": {
+      "solved": true,
+      "time": 6.01,
+      "primal_bound": 0.0230344,
+      "dual_bound": 0.0230344,
+      "remaining_gap": 0.0
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 1.08,
+      "primal_bound": 0.02302717873388,
+      "dual_bound": 0.02302717873388,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": true,
+      "time": 4.78,
+      "primal_bound": 0.0230277443998355,
+      "dual_bound": 0.0230277443998355,
+      "remaining_gap": 0.0
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 0.04,
+      "primal_bound": 0.0230244,
+      "dual_bound": 0.0230244,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.01,
+      "exposed_point_computation_time": 0.0
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 0.11,
+      "primal_bound": 0.0230244,
+      "dual_bound": 0.0230244,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.0,
+      "exposed_point_computation_time": 0.0
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 4.19,
+      "primal_bound": 0.0230247,
+      "dual_bound": 0.0230247,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 1.46,
+      "exposed_point_computation_time": 0.12
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 0.1,
+      "primal_bound": 0.0230244,
+      "dual_bound": 0.0230244,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.01,
+      "exposed_point_computation_time": 0.01
+    }
+  },
+  "ofl_3_1000i": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00252602,
+      "dual_bound": 0.00357168,
+      "remaining_gap": 0.4139555506290528
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 67.84,
+      "primal_bound": 0.002517745171844,
+      "dual_bound": 0.002517745171844,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00251812099579121,
+      "dual_bound": 0.002527941667674796,
+      "remaining_gap": 0.0039000000000000003
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 0.8,
+      "primal_bound": 0.00251602,
+      "dual_bound": 0.00251602,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.09,
+      "exposed_point_computation_time": 0.06
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 1.01,
+      "primal_bound": 0.00251602,
+      "dual_bound": 0.00251602,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.08,
+      "exposed_point_computation_time": 0.06
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 387.58,
+      "primal_bound": 0.00252322,
+      "dual_bound": 0.00252322,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 55.64,
+      "exposed_point_computation_time": 45.64
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 0.91,
+      "primal_bound": 0.00251602,
+      "dual_bound": 0.00251602,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.09,
+      "exposed_point_computation_time": 0.05
+    }
+  },
+  "ofl_3_1000ii": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00232533,
+      "dual_bound": 0.00249319,
+      "remaining_gap": 0.07218760347993625
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 76.1,
+      "primal_bound": 0.002324442381987,
+      "dual_bound": 0.002324442381987,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00232814416399929,
+      "dual_bound": 0.0023372239262388875,
+      "remaining_gap": 0.0039000000000000003
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 1.57,
+      "primal_bound": 0.00232444,
+      "dual_bound": 0.00232444,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.21,
+      "exposed_point_computation_time": 0.15
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 1.8,
+      "primal_bound": 0.00232444,
+      "dual_bound": 0.00232444,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.33,
+      "exposed_point_computation_time": 0.27
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 158.18,
+      "primal_bound": 0.00232434,
+      "dual_bound": 0.00232434,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 31.2,
+      "exposed_point_computation_time": 22.73
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 2.34,
+      "primal_bound": 0.00232444,
+      "dual_bound": 0.00232444,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.41,
+      "exposed_point_computation_time": 0.33
+    }
+  },
+  "ofl_4_100i": {
+    "BARON 23.11.13": {
+      "solved": true,
+      "time": 40.03,
+      "primal_bound": 0.022777,
+      "dual_bound": 0.022777,
+      "remaining_gap": 0.0
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 2.51,
+      "primal_bound": 0.02277106025753,
+      "dual_bound": 0.02277106025753,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": true,
+      "time": 23.27,
+      "primal_bound": 0.0227748346995449,
+      "dual_bound": 0.0227748346995449,
+      "remaining_gap": 0.0
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 0.16,
+      "primal_bound": 0.022767,
+      "dual_bound": 0.022767,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.02,
+      "exposed_point_computation_time": 0.0
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 0.13,
+      "primal_bound": 0.022767,
+      "dual_bound": 0.022767,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.01,
+      "exposed_point_computation_time": 0.0
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 17.71,
+      "primal_bound": 0.0227671,
+      "dual_bound": 0.0227671,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 3.43,
+      "exposed_point_computation_time": 0.41
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 0.16,
+      "primal_bound": 0.022767,
+      "dual_bound": 0.022767,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.03,
+      "exposed_point_computation_time": 0.0
+    }
+  },
+  "ofl_4_100ii": {
+    "BARON 23.11.13": {
+      "solved": true,
+      "time": 57.31,
+      "primal_bound": 0.0155328,
+      "dual_bound": 0.0155328,
+      "remaining_gap": 0.0
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 13.94,
+      "primal_bound": 0.01553389806715,
+      "dual_bound": 0.01553389806715,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": true,
+      "time": 65.59,
+      "primal_bound": 0.0155355471496124,
+      "dual_bound": 0.0155355471496124,
+      "remaining_gap": 0.0
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 0.41,
+      "primal_bound": 0.0155228,
+      "dual_bound": 0.0155228,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.07,
+      "exposed_point_computation_time": 0.01
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 0.31,
+      "primal_bound": 0.0155228,
+      "dual_bound": 0.0155228,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.06,
+      "exposed_point_computation_time": 0.01
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 26.56,
+      "primal_bound": 0.0155242,
+      "dual_bound": 0.0155242,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 8.18,
+      "exposed_point_computation_time": 0.57
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 0.61,
+      "primal_bound": 0.0155228,
+      "dual_bound": 0.0155228,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.15,
+      "exposed_point_computation_time": 0.0
+    }
+  },
+  "ofl_4_1000i": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00234778,
+      "dual_bound": 0.010342300000000002,
+      "remaining_gap": 3.405140174973806
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 1898.16,
+      "primal_bound": 0.002347779959906,
+      "dual_bound": 0.002347779959906,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00234817417680792,
+      "dual_bound": 0.0028647724957056625,
+      "remaining_gap": 0.22
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 2.76,
+      "primal_bound": 0.00234778,
+      "dual_bound": 0.00234778,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.23,
+      "exposed_point_computation_time": 0.15
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 2.99,
+      "primal_bound": 0.00234778,
+      "dual_bound": 0.00234778,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.24,
+      "exposed_point_computation_time": 0.17
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 1862.62,
+      "primal_bound": 0.00234748,
+      "dual_bound": 0.00234748,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 360.81,
+      "exposed_point_computation_time": 297.4
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 2.75,
+      "primal_bound": 0.00234778,
+      "dual_bound": 0.00234778,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.21,
+      "exposed_point_computation_time": 0.16
+    }
+  },
+  "ofl_4_1000ii": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0023261,
+      "dual_bound": 0.00834815,
+      "remaining_gap": 2.5889041743691155
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 742.11,
+      "primal_bound": 0.002326099100788,
+      "dual_bound": 0.002326099100788,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00232609910078798,
+      "dual_bound": 0.002383088528757285,
+      "remaining_gap": 0.0245
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 2.14,
+      "primal_bound": 0.0023261,
+      "dual_bound": 0.0023261,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.27,
+      "exposed_point_computation_time": 0.19
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 2.69,
+      "primal_bound": 0.0023261,
+      "dual_bound": 0.0023261,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.28,
+      "exposed_point_computation_time": 0.19
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 696.17,
+      "primal_bound": 0.00231469,
+      "dual_bound": 0.00231469,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 123.34,
+      "exposed_point_computation_time": 81.67
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 2.33,
+      "primal_bound": 0.0023261,
+      "dual_bound": 0.0023261,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.33,
+      "exposed_point_computation_time": 0.26
+    }
+  },
+  "ofl_5_100i": {
+    "BARON 23.11.13": {
+      "solved": true,
+      "time": 1369.98,
+      "primal_bound": 0.0142102,
+      "dual_bound": 0.0142102,
+      "remaining_gap": 0.0
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 167.15,
+      "primal_bound": 0.01420924098343,
+      "dual_bound": 0.01420924098343,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0142108348140905,
+      "dual_bound": 0.014215098064534727,
+      "remaining_gap": 0.0003
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 1.44,
+      "primal_bound": 0.0142086,
+      "dual_bound": 0.0142086,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.37,
+      "exposed_point_computation_time": 0.03
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 1.31,
+      "primal_bound": 0.0142086,
+      "dual_bound": 0.0142086,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.24,
+      "exposed_point_computation_time": 0.01
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 71.39,
+      "primal_bound": 0.0142038,
+      "dual_bound": 0.0142038,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 19.33,
+      "exposed_point_computation_time": 1.74
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 1.68,
+      "primal_bound": 0.0142086,
+      "dual_bound": 0.0142086,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.42,
+      "exposed_point_computation_time": 0.02
+    }
+  },
+  "ofl_5_100ii": {
+    "BARON 23.11.13": {
+      "solved": true,
+      "time": 594.34,
+      "primal_bound": 0.0124395,
+      "dual_bound": 0.0124395,
+      "remaining_gap": 0.0
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 81.79,
+      "primal_bound": 0.0124295218,
+      "dual_bound": 0.0124295218,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": true,
+      "time": 1263.73,
+      "primal_bound": 0.0124295218000001,
+      "dual_bound": 0.0124295218000001,
+      "remaining_gap": 0.0
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 0.64,
+      "primal_bound": 0.0124295,
+      "dual_bound": 0.0124295,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.17,
+      "exposed_point_computation_time": 0.01
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 0.96,
+      "primal_bound": 0.0124295,
+      "dual_bound": 0.0124295,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.2,
+      "exposed_point_computation_time": 0.09
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 51.45,
+      "primal_bound": 0.0124295,
+      "dual_bound": 0.0124295,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 17.81,
+      "exposed_point_computation_time": 0.94
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 0.51,
+      "primal_bound": 0.0124295,
+      "dual_bound": 0.0124295,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.13,
+      "exposed_point_computation_time": 0.0
+    }
+  },
+  "ofl_5_1000i": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00233165,
+      "dual_bound": 0.0210259,
+      "remaining_gap": 8.017605558295626
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.002331647955795,
+      "dual_bound": 0.0030215965758024752,
+      "remaining_gap": 0.295906
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00233164795579502,
+      "dual_bound": 0.005029131475854279,
+      "remaining_gap": 1.1569
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 5.63,
+      "primal_bound": 0.00233165,
+      "dual_bound": 0.00233165,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.43,
+      "exposed_point_computation_time": 0.26
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 6.63,
+      "primal_bound": 0.00233165,
+      "dual_bound": 0.00233165,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.51,
+      "exposed_point_computation_time": 0.37
+    },
+    "AllCuts_noinit": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0023196,
+      "dual_bound": 0.00503056,
+      "remaining_gap": 1.16871874461114,
+      "total_cut_computation_time": 544.36,
+      "exposed_point_computation_time": 337.29
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 5.65,
+      "primal_bound": 0.00233165,
+      "dual_bound": 0.00233165,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.44,
+      "exposed_point_computation_time": 0.31
+    }
+  },
+  "ofl_5_1000ii": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00196816,
+      "dual_bound": 0.0263358,
+      "remaining_gap": 12.380924315096333
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.001998190038031,
+      "dual_bound": 0.0022979565093463727,
+      "remaining_gap": 0.150019
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00196816089598856,
+      "dual_bound": 0.005753524747243357,
+      "remaining_gap": 1.9233000000000002
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 12.03,
+      "primal_bound": 0.00196816,
+      "dual_bound": 0.00196816,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 1.37,
+      "exposed_point_computation_time": 0.9
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 13.84,
+      "primal_bound": 0.00196816,
+      "dual_bound": 0.00196816,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 1.85,
+      "exposed_point_computation_time": 1.28
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 1774.41,
+      "primal_bound": 0.00197275,
+      "dual_bound": 0.00197275,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 283.33,
+      "exposed_point_computation_time": 160.1
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 9.73,
+      "primal_bound": 0.00196816,
+      "dual_bound": 0.00196816,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 1.39,
+      "exposed_point_computation_time": 1.02
+    }
+  },
+  "ofl_6_100i": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0124395,
+      "dual_bound": 0.0197785,
+      "remaining_gap": 0.5899754813296356
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 2671.8,
+      "primal_bound": 0.0124295218,
+      "dual_bound": 0.0124295218,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0124295217999999,
+      "dual_bound": 0.015294526574899877,
+      "remaining_gap": 0.2305
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 4.64,
+      "primal_bound": 0.0124295,
+      "dual_bound": 0.0124295,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 1.26,
+      "exposed_point_computation_time": 0.16
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 4.25,
+      "primal_bound": 0.0124295,
+      "dual_bound": 0.0124295,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.9,
+      "exposed_point_computation_time": 0.17
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 244.94,
+      "primal_bound": 0.0124295,
+      "dual_bound": 0.0124295,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 60.25,
+      "exposed_point_computation_time": 5.61
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 2.51,
+      "primal_bound": 0.0124295,
+      "dual_bound": 0.0124295,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.69,
+      "exposed_point_computation_time": 0.1
+    }
+  },
+  "ofl_6_100ii": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0122574,
+      "dual_bound": 0.0189017,
+      "remaining_gap": 0.5420643855956402
+    },
+    "Gurobi 10.0.1": {
+      "solved": true,
+      "time": 671.65,
+      "primal_bound": 0.01225734142848,
+      "dual_bound": 0.01225734142848,
+      "remaining_gap": 0.0
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0122572356385912,
+      "dual_bound": 0.012267041427102074,
+      "remaining_gap": 0.0008
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 3.78,
+      "primal_bound": 0.0122474,
+      "dual_bound": 0.0122474,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.91,
+      "exposed_point_computation_time": 0.12
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 3.03,
+      "primal_bound": 0.0122474,
+      "dual_bound": 0.0122474,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 0.58,
+      "exposed_point_computation_time": 0.08
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 170.2,
+      "primal_bound": 0.0122533,
+      "dual_bound": 0.0122533,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 53.06,
+      "exposed_point_computation_time": 3.66
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 7.65,
+      "primal_bound": 0.0122474,
+      "dual_bound": 0.0122474,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 1.86,
+      "exposed_point_computation_time": 0.19
+    }
+  },
+  "ofl_6_1000i": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00232355,
+      "dual_bound": 0.263745,
+      "remaining_gap": 112.5095005487293
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.002313551768809,
+      "dual_bound": 0.0037814402137723215,
+      "remaining_gap": 0.634474
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00231355176880899,
+      "dual_bound": 0.022071746584791527,
+      "remaining_gap": 8.5402
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 16.98,
+      "primal_bound": 0.00231355,
+      "dual_bound": 0.00231355,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 1.85,
+      "exposed_point_computation_time": 1.33
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 20.78,
+      "primal_bound": 0.00231355,
+      "dual_bound": 0.00231355,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 1.99,
+      "exposed_point_computation_time": 1.47
+    },
+    "AllCuts_noinit": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.001969,
+      "dual_bound": 0.00426502,
+      "remaining_gap": 1.1660843067546978,
+      "total_cut_computation_time": 686.48,
+      "exposed_point_computation_time": 461.47
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 20.9,
+      "primal_bound": 0.00231355,
+      "dual_bound": 0.00231355,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 2.53,
+      "exposed_point_computation_time": 1.77
+    }
+  },
+  "ofl_6_1000ii": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00196816,
+      "dual_bound": 0.141438,
+      "remaining_gap": 70.86305991382815
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.001968160895988,
+      "dual_bound": 0.0032593531701919677,
+      "remaining_gap": 0.65604
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00196816089598848,
+      "dual_bound": 0.018895131865847806,
+      "remaining_gap": 8.6004
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 22.91,
+      "primal_bound": 0.00196816,
+      "dual_bound": 0.00196816,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 2.45,
+      "exposed_point_computation_time": 1.5
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 22.15,
+      "primal_bound": 0.00196816,
+      "dual_bound": 0.00196816,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 2.41,
+      "exposed_point_computation_time": 1.71
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 3430.35,
+      "primal_bound": 0.00196849,
+      "dual_bound": 0.00196849,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 700.31,
+      "exposed_point_computation_time": 177.04
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 18.19,
+      "primal_bound": 0.00196816,
+      "dual_bound": 0.00196816,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 2.56,
+      "exposed_point_computation_time": 1.58
+    }
+  },
+  "ofl_7_100i": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0122574,
+      "dual_bound": 0.025669900000000002,
+      "remaining_gap": 1.0942369507399612
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.01225648675152,
+      "dual_bound": 0.015360368482421932,
+      "remaining_gap": 0.253244
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0122473553862637,
+      "dual_bound": 0.019519835014627084,
+      "remaining_gap": 0.5938
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 16.69,
+      "primal_bound": 0.0122474,
+      "dual_bound": 0.0122474,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 3.92,
+      "exposed_point_computation_time": 0.34
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 11.87,
+      "primal_bound": 0.0122474,
+      "dual_bound": 0.0122474,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 1.96,
+      "exposed_point_computation_time": 0.24
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 895.18,
+      "primal_bound": 0.0122479,
+      "dual_bound": 0.0122479,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 229.54,
+      "exposed_point_computation_time": 18.29
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 11.16,
+      "primal_bound": 0.0122474,
+      "dual_bound": 0.0122474,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 2.5,
+      "exposed_point_computation_time": 0.24
+    }
+  },
+  "ofl_7_100ii": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0118513,
+      "dual_bound": 0.0235574,
+      "remaining_gap": 0.987748179524609
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.01185008464732,
+      "dual_bound": 0.012633612244200799,
+      "remaining_gap": 0.06612
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0118413032604999,
+      "dual_bound": 0.017302512324242455,
+      "remaining_gap": 0.4612
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 13.07,
+      "primal_bound": 0.0118413,
+      "dual_bound": 0.0118413,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 3.11,
+      "exposed_point_computation_time": 0.29
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 14.22,
+      "primal_bound": 0.0118413,
+      "dual_bound": 0.0118413,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 2.8,
+      "exposed_point_computation_time": 0.36
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 1264.79,
+      "primal_bound": 0.0118418,
+      "dual_bound": 0.0118418,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 321.85,
+      "exposed_point_computation_time": 20.76
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 37.13,
+      "primal_bound": 0.0118508,
+      "dual_bound": 0.0118508,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 9.25,
+      "exposed_point_computation_time": 1.25
+    }
+  },
+  "ofl_7_1000i": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00198323,
+      "dual_bound": 0.327173,
+      "remaining_gap": 163.96977153431524
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.001983228601926,
+      "dual_bound": 0.0035197845419832167,
+      "remaining_gap": 0.774775
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0019832286019259,
+      "dual_bound": 0.020968081039581962,
+      "remaining_gap": 9.5727
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 243.9,
+      "primal_bound": 0.00198323,
+      "dual_bound": 0.00198323,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 21.66,
+      "exposed_point_computation_time": 14.18
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 251.82,
+      "primal_bound": 0.00198323,
+      "dual_bound": 0.00198323,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 17.55,
+      "exposed_point_computation_time": 11.96
+    },
+    "AllCuts_noinit": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.000433719,
+      "dual_bound": 0.0306168,
+      "remaining_gap": 69.59132756462134,
+      "total_cut_computation_time": 997.29,
+      "exposed_point_computation_time": 186.98
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 239.91,
+      "primal_bound": 0.00198323,
+      "dual_bound": 0.00198323,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 23.45,
+      "exposed_point_computation_time": 15.64
+    }
+  },
+  "ofl_7_1000ii": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00192148,
+      "dual_bound": 0.12357,
+      "remaining_gap": 63.30980286029519
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.001921484868734,
+      "dual_bound": 0.0034277541506984015,
+      "remaining_gap": 0.783909
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00192148486873409,
+      "dual_bound": 0.025637796158058345,
+      "remaining_gap": 12.3427
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 184.93,
+      "primal_bound": 0.00192148,
+      "dual_bound": 0.00192148,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 15.11,
+      "exposed_point_computation_time": 9.08
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 201.37,
+      "primal_bound": 0.00192148,
+      "dual_bound": 0.00192148,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 15.11,
+      "exposed_point_computation_time": 9.97
+    },
+    "AllCuts_noinit": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 9.98459e-05,
+      "dual_bound": 0.0319502,
+      "remaining_gap": 318.99511246831366,
+      "total_cut_computation_time": 1136.58,
+      "exposed_point_computation_time": 121.88
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 223.75,
+      "primal_bound": 0.00192148,
+      "dual_bound": 0.00192148,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 20.92,
+      "exposed_point_computation_time": 12.88
+    }
+  },
+  "ofl_8_100i": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0118513,
+      "dual_bound": 0.031192200000000003,
+      "remaining_gap": 1.6319644258435784
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0118413032605,
+      "dual_bound": 0.016667664532537412,
+      "remaining_gap": 0.407587
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0118413032604997,
+      "dual_bound": 0.022187049919198287,
+      "remaining_gap": 0.8737
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 49.42,
+      "primal_bound": 0.0118413,
+      "dual_bound": 0.0118413,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 10.62,
+      "exposed_point_computation_time": 0.95
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 49.29,
+      "primal_bound": 0.0118413,
+      "dual_bound": 0.0118413,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 8.3,
+      "exposed_point_computation_time": 1.03
+    },
+    "AllCuts_noinit": {
+      "solved": true,
+      "time": 990.91,
+      "primal_bound": 0.0118415,
+      "dual_bound": 0.0118415,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 264.46,
+      "exposed_point_computation_time": 15.32
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 174.0,
+      "primal_bound": 0.011851,
+      "dual_bound": 0.011851,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 45.25,
+      "exposed_point_computation_time": 6.11
+    }
+  },
+  "ofl_8_100ii": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0117565,
+      "dual_bound": 0.0332077,
+      "remaining_gap": 1.8246246757113087
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.01174651838515,
+      "dual_bound": 0.01595403904508203,
+      "remaining_gap": 0.358193
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0117465183851459,
+      "dual_bound": 0.019723579020498483,
+      "remaining_gap": 0.6790999999999999
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 73.81,
+      "primal_bound": 0.0117465,
+      "dual_bound": 0.0117465,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 16.13,
+      "exposed_point_computation_time": 1.59
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 58.74,
+      "primal_bound": 0.0117465,
+      "dual_bound": 0.0117465,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 9.67,
+      "exposed_point_computation_time": 1.32
+    },
+    "AllCuts_noinit": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0117604,
+      "dual_bound": 0.0128726,
+      "remaining_gap": 0.09457161321043492,
+      "total_cut_computation_time": 949.36,
+      "exposed_point_computation_time": 105.04
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 75.72,
+      "primal_bound": 0.0117465,
+      "dual_bound": 0.0117465,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 17.16,
+      "exposed_point_computation_time": 1.93
+    }
+  },
+  "ofl_8_1000i": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00196463,
+      "dual_bound": 0.0413149,
+      "remaining_gap": 20.029354127749244
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.001964633466623,
+      "dual_bound": 0.0035298314092464785,
+      "remaining_gap": 0.796687
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00196463346662321,
+      "dual_bound": 0.025157524466803527,
+      "remaining_gap": 11.8052
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 264.11,
+      "primal_bound": 0.00196463,
+      "dual_bound": 0.00196463,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 20.73,
+      "exposed_point_computation_time": 12.45
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 245.28,
+      "primal_bound": 0.00196463,
+      "dual_bound": 0.00196463,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 15.86,
+      "exposed_point_computation_time": 10.48
+    },
+    "AllCuts_noinit": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.000725979,
+      "dual_bound": 0.032145,
+      "remaining_gap": 43.27814027678487,
+      "total_cut_computation_time": 1362.51,
+      "exposed_point_computation_time": 203.72
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 302.4,
+      "primal_bound": 0.00196463,
+      "dual_bound": 0.00196463,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 26.12,
+      "exposed_point_computation_time": 16.85
+    }
+  },
+  "ofl_8_1000ii": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00173722,
+      "dual_bound": 0.26457,
+      "remaining_gap": 151.29504610814982
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.001727217841525,
+      "dual_bound": 0.0032816465374016805,
+      "remaining_gap": 0.899961
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00172721784152465,
+      "dual_bound": 0.01045795858686345,
+      "remaining_gap": 5.0548
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 955.41,
+      "primal_bound": 0.00172722,
+      "dual_bound": 0.00172722,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 70.89,
+      "exposed_point_computation_time": 37.01
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 804.45,
+      "primal_bound": 0.00172722,
+      "dual_bound": 0.00172722,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 50.96,
+      "exposed_point_computation_time": 32.05
+    },
+    "AllCuts_noinit": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.000586868,
+      "dual_bound": 0.0324457,
+      "remaining_gap": 54.286197236857355,
+      "total_cut_computation_time": 1091.57,
+      "exposed_point_computation_time": 142.25
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 899.13,
+      "primal_bound": 0.00172722,
+      "dual_bound": 0.00172722,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 81.27,
+      "exposed_point_computation_time": 47.85
+    }
+  },
+  "ofl_9_100i": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0113812,
+      "dual_bound": 0.0360116,
+      "remaining_gap": 2.1641303201771342
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.01137123223403,
+      "dual_bound": 0.017459469570755302,
+      "remaining_gap": 0.535407
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0113712322340279,
+      "dual_bound": 0.02394099234552234,
+      "remaining_gap": 1.1054000000000002
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 295.25,
+      "primal_bound": 0.0113712,
+      "dual_bound": 0.0113712,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 62.35,
+      "exposed_point_computation_time": 5.44
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 424.79,
+      "primal_bound": 0.0113712,
+      "dual_bound": 0.0113712,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 69.1,
+      "exposed_point_computation_time": 9.28
+    },
+    "AllCuts_noinit": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00454815,
+      "dual_bound": 0.0356555,
+      "remaining_gap": 6.839561140243835,
+      "total_cut_computation_time": 1310.05,
+      "exposed_point_computation_time": 66.0
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 212.94,
+      "primal_bound": 0.0113712,
+      "dual_bound": 0.0113712,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 47.76,
+      "exposed_point_computation_time": 4.5
+    }
+  },
+  "ofl_9_100ii": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0104525,
+      "dual_bound": 0.0334584,
+      "remaining_gap": 2.200994977278163
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.01044249307614,
+      "dual_bound": 0.016542600716484092,
+      "remaining_gap": 0.584162
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.0104424930761413,
+      "dual_bound": 0.024490779011474194,
+      "remaining_gap": 1.3453
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 286.38,
+      "primal_bound": 0.0104425,
+      "dual_bound": 0.0104425,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 56.79,
+      "exposed_point_computation_time": 4.67
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 309.44,
+      "primal_bound": 0.0104425,
+      "dual_bound": 0.0104425,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 44.54,
+      "exposed_point_computation_time": 5.49
+    },
+    "AllCuts_noinit": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00445936,
+      "dual_bound": 0.0355782,
+      "remaining_gap": 6.9783197588891674,
+      "total_cut_computation_time": 1211.05,
+      "exposed_point_computation_time": 44.18
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 223.66,
+      "primal_bound": 0.0104425,
+      "dual_bound": 0.0104425,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 47.78,
+      "exposed_point_computation_time": 4.26
+    }
+  },
+  "ofl_9_1000i": {
+    "BARON 23.11.13": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00196463,
+      "dual_bound": 0.0821981,
+      "remaining_gap": 40.8389722237775
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.001964633466623,
+      "dual_bound": 0.003585230143738314,
+      "remaining_gap": 0.824885
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00196463346662313,
+      "dual_bound": 0.019950852853557882,
+      "remaining_gap": 9.155
+    },
+    "AllCuts": {
+      "solved": true,
+      "time": 403.9,
+      "primal_bound": 0.00196463,
+      "dual_bound": 0.00196463,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 24.88,
+      "exposed_point_computation_time": 13.28
+    },
+    "SimConCuts": {
+      "solved": true,
+      "time": 466.79,
+      "primal_bound": 0.00196463,
+      "dual_bound": 0.00196463,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 26.77,
+      "exposed_point_computation_time": 17.78
+    },
+    "AllCuts_noinit": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.000974051,
+      "dual_bound": 0.0325871,
+      "remaining_gap": 32.45522975696345,
+      "total_cut_computation_time": 1087.64,
+      "exposed_point_computation_time": 189.78
+    },
+    "DistanceCuts": {
+      "solved": true,
+      "time": 308.01,
+      "primal_bound": 0.00196463,
+      "dual_bound": 0.00196463,
+      "remaining_gap": 0.0,
+      "total_cut_computation_time": 22.64,
+      "exposed_point_computation_time": 13.21
+    }
+  },
+  "ofl_9_1000ii": {
+    "BARON 23.11.13": {
+      "solved": true,
+      "time": 20.4,
+      "primal_bound": 0.00231355,
+      "dual_bound": 0.00231355,
+      "remaining_gap": 0.0
+    },
+    "Gurobi 10.0.1": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.001578369637585,
+      "dual_bound": 0.0029863811050765384,
+      "remaining_gap": 0.892067
+    },
+    "SCIP 8.0": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00157836963758509,
+      "dual_bound": 0.020978742200998466,
+      "remaining_gap": 12.291400000000001
+    },
+    "AllCuts": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00157837,
+      "dual_bound": 0.0239587,
+      "remaining_gap": 14.179393931714364,
+      "total_cut_computation_time": 237.27,
+      "exposed_point_computation_time": 102.78
+    },
+    "SimConCuts": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00157837,
+      "dual_bound": 0.0366265,
+      "remaining_gap": 22.20526872659769,
+      "total_cut_computation_time": 237.07,
+      "exposed_point_computation_time": 132.92
+    },
+    "AllCuts_noinit": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.000338264,
+      "dual_bound": 0.0328035,
+      "remaining_gap": 95.97603055601542,
+      "total_cut_computation_time": 709.78,
+      "exposed_point_computation_time": 107.46
+    },
+    "DistanceCuts": {
+      "solved": false,
+      "time": 3600.0,
+      "primal_bound": 0.00157837,
+      "dual_bound": 0.0217164,
+      "remaining_gap": 12.758751116658326,
+      "total_cut_computation_time": 288.9,
+      "exposed_point_computation_time": 138.54
+    }
+  }
+}
